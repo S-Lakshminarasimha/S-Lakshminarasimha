@@ -1,4 +1,4 @@
-<div style='width:100%;height:100px'>
+<div style='width:100%;height:100px;background-color:orange'>
   <h1 align="center" >Hi 👋, I'm Lakshmi Narasimha</h1>
   <h3 align="center">A passionate Learner | Developer | Programmer from India</h3>
 </div>
