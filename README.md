@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Lakshmi Narasimha</h1>
-<h3 align="center">A passionate Learner | Developer | Programmer from India</h3>
-
+<div style='width:100%;height:100px'>
+  <h1 align="center" >Hi 👋, I'm Lakshmi Narasimha</h1>
+  <h3 align="center">A passionate Learner | Developer | Programmer from India</h3>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-lakshminarasimha&label=Profile%20views&color=0e75b6&style=flat" alt="s-lakshminarasimha" /> </p>
 
 - 🌱 I’m currently learning **React**
